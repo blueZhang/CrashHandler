@@ -1,0 +1,5 @@
+The CrashHandler of Applycation
+if you want us it into your Applycation 
+Add this code in your Applycation :
+CrashHandler crashHadle = CrashHandler.getInstance();
+crashHandler.init(this)
